@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
- * main - prints lower case alphabet
+ * main - prints lowercase alphabet
  *
- * return: always 0 (success)
+ * return: always 0 (Success)
  */
 
 int main(void)
