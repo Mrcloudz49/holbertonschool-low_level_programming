@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <main.h>
+#include "main.h"
 /**
  * print_alphabet - prints alphabet
  *
@@ -11,7 +11,7 @@ void print_alphabet(void)
 
 	for (n = 'a'; n <= 'z'; n++)
 	{
-	putchar(n);
+	_putchar(n);
 	}
-	putchar('\n');
+	_putchar('\n');
 }
