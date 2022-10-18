@@ -1,6 +1,6 @@
 #ifndef OBJECT_LIKE_MARCO
 #define OBJECT_LIKE_MARCO
 
-#DEFINE SIZE 1024
+#define SIZE 1024
 
 #endif
