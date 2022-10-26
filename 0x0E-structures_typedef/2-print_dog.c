@@ -13,7 +13,7 @@ void print_dog(struct dog *d)
 	if (d == NULL)
 		d->name = "(nil)";
 	if (d == NULL)
-		d->age = (0);
+		d->age = printf("(nil)");
 	if (d->owner == NULL)
 		d->owner = "(nil)";
 
