@@ -1,0 +1,8 @@
+0x1A.C - HASH TABLES
+
+
+
+
+
+
+
