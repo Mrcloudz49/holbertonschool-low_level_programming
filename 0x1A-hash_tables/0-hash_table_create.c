@@ -14,7 +14,7 @@ hash_table_t *hash_table_create(unsigned long int size)
 	if (htable == NULL)
 		return (NULL);
 
-	arr = malloc(sizeof(hash_table_t));
+	arr = malloc(sizeof(hash_table_t *) * size);
 	if (arr == NULL)
 		return (NULL);
 
